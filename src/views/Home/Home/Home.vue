@@ -32,11 +32,11 @@
             >
               <img
                 v-show="!primaryshow"
-                src="http://panshi-on.oss-cn-hangzhou.aliyuncs.com/yunxiaoding-mini/other/mall/img/humberger_icon.jpeg"
+                src="~assets/img/humberger_icon.jpeg"
               />
               <img
                 v-show="primaryshow"
-                src="http://panshi-on.oss-cn-hangzhou.aliyuncs.com/yunxiaoding-mini/other/mall/img/close.gif"
+                src="~assets/img/close.gif"
               />
             </a>
           </el-header>
