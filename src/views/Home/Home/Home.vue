@@ -47,7 +47,7 @@
               v-show="primaryshow"
             />
             <aside-body
-              :titles="['二级导航!变形!']"
+              :titles="['待开发~']"
               :titlesrouter="[]"
               v-show="!primaryshow"
             />

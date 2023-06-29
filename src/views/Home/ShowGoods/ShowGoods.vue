@@ -12,7 +12,7 @@
           />
           <a class="c" @click="search">
             <img
-              src="http://panshi-on.oss-cn-hangzhou.aliyuncs.com/yunxiaoding-mini/other/mall/img/搜索框2.png"
+                src="~assets/img/搜索框2.png"
               style="width: 30px"
             />
           </a>

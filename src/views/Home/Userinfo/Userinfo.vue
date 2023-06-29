@@ -297,6 +297,9 @@ export default {
 
                   this.cartlist = [];
                   this.$store.state.cartlist = [];
+                  setTimeout(()=>{
+                    location.reload()
+                  },500)
                 }
               }
           );

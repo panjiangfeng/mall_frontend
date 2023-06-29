@@ -58,33 +58,7 @@ export default {
     }
   },
   created() {
-    // switch (this.$route.path) {
-    //   case '/newarrive' :
-    //     eventBus.$on('newlist',(data)=>{
-    //        console.log(data)
-    //       // console.log("bus on开启")
-    //       this.ranklist = data
-    //       this.rankheadlist = data.slice(0,3)
-    //     }) ;
-    //     break;
-    //   case '/hot' :
-    //     eventBus.$on('hotlist',(data)=>{
-    //       console.log(data)
-    //       // console.log("bus on开启")
-    //       this.ranklist = data
-    //       this.rankheadlist = data.slice(0,3)
-    //     });
-    //     break;
-    //   case '/sale' :
-    //     eventBus.$on('salelist',(data)=>{
-    //       console.log(data)
-    //       // console.log("bus on开启")
-    //       this.ranklist = data
-    //       this.rankheadlist = data.slice(0,3)
-    //     });
-    //     break;
-    // }
-    // console.log("bus on会被滞后后执行")
+
     switch (this.$route.path) {
       case '/newarrive' :
           this.ranklist = this.newlist
