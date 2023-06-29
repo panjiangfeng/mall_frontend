@@ -78,17 +78,6 @@
                   >GitHub</a
                   >，感激不尽!
                   </p>
-                  <p>原创网站,功能不定期更新,可以催更</p>
-                  <p>_(:зゝ∠)_添加wechat，作者期待聆听您的建议</p>
-                  <img
-                      src="http://panshi-on.oss-cn-hangzhou.aliyuncs.com/yunxiaoding-mini/other/mall/img/addwechat.jpeg"
-                      style="width: 200px"
-                  />
-                  <p>_(:зゝ∠)_土豪请随意thanks</p>
-                  <img
-                      src="http://panshi-on.oss-cn-hangzhou.aliyuncs.com/yunxiaoding-mini/other/mall/img/alipay.jpeg"
-                      style="width: 200px"
-                  />
                 </el-drawer>
               </div>
             </el-drawer>
